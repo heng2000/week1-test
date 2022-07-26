@@ -25,3 +25,5 @@ int main (void)
 	cout <<"nice, your name is "<<name<<endl;
 	return 0;
 }
+
+///
